@@ -1,8 +1,53 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+.customBorder
+{
+  border-style: solid;
+  border-width: 5px;
+  background-image: url("../images/wood.jpg");
+}
+.brand
+{
+  font-family: 'Lobster Two',cursive;
+  font-size:27px;
+}
+.carouselQuote
+{
+  font-family: 'Lobster Two',cursive;
+  font-size:40px;
+  padding-bottom: 80px;
+  color: white;
 }
 
-a {
-  color: #00B7FF;
+.carousel-item {
+  height: 400px;
+  background-image:url("../images/galaxy.gif");
+}
+
+.quoteAuthor
+{
+  text-align: right;
+  font-size: 22px;
+}
+
+.textBox
+{
+  border-color:black;
+  border-width: 2px;
+  margin-bottom: 10px;
+}
+
+.customBg{
+  background-image: url("../images/paper.jpg");
+  height: 100%;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wallCSS
+{
+  font-family: 'Lobster Two',cursive;
+  font-size:25px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  align-items: center;
 }

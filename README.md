@@ -1,0 +1,2 @@
+# MindVoice
+A quotes website
